@@ -41,7 +41,7 @@ void detectAndWriteVideo(String input_dir, String output_dir, YOLO yolo_model){
 
 int main( ) {
 
-    String time13_57_dir = "D:\\opencv_object_c++\\data\\S1_L1\\Crowd_PETS09\\S1\\L1\\Time_13-57\\";
+//    String time13_57_dir = "D:\\opencv_object_c++\\data\\S1_L1\\Crowd_PETS09\\S1\\L1\\Time_13-57\\";
     String time13_59_dir = "D:\\opencv_object_c++\\data\\S1_L1\\Crowd_PETS09\\S1\\L1\\Time_13-59\\";
     string out1_dir = "../output/Time_13-57/";
     string out2_dir ="../output/Time_13-59/";
